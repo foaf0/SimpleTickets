@@ -1,0 +1,26 @@
+{
+  "name": "simpletickets",
+  "version": "1.0.0",
+  "description": "SimpleTickets Discord Bot created by Foaf#0001",
+  "main": "server.js",
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "Tickets",
+    "Discord",
+    "Bots",
+    "SimpleTickets",
+    "Foaf"
+  ],
+  "author": "Foaf#0001",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  }
+}
