@@ -33,10 +33,7 @@ SimpleTickets created to bring a modernized ease of support to discord. The bot 
 
 # Preview
 
-<img src="https://i.imgur.com/YGHUwfK.png" alt="Preview">
-<img src="https://i.imgur.com/RETVjeY.png" alt="Preview">
-<img src="https://i.imgur.com/DUzvv7r.png" alt="Preview">
-<img src="https://i.imgur.com/fxxIybu.png" alt="Preview">
+[Click Here](https://imgur.com/a/eUkdfcL)
 
 [Installation](#installation) is easy, and you do **NOT** need to know anything about coding! Follow the guide bellow to get a fast and clean installation.
 
