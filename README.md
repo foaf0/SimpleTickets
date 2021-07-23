@@ -31,10 +31,6 @@
 
 SimpleTickets created to bring a modernized ease of support to discord. The bot comes customizeable with tons of  configuration out of the box. This is a self hosted bot so you do need to host it and keep it maintained. Support can be given on our discord but is not guaranteed. 
 
-# Preview
-
-[Click Here](https://imgur.com/a/eUkdfcL)
-
 [Installation](#installation) is easy, and you do **NOT** need to know anything about coding! Follow the guide bellow to get a fast and clean installation.
 
 - Ticket System Embed with Button
@@ -45,6 +41,10 @@ SimpleTickets created to bring a modernized ease of support to discord. The bot 
 - Easy Setup
 - Customizeable Config
 - Admin Setup Command
+
+# Preview
+
+[Click Here](https://imgur.com/a/eUkdfcL)
 
 # Installation
 
